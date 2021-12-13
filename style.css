@@ -1,0 +1,12 @@
+/* Backgroung colors */
+
+.bkg-color-balck{
+    background-color: rgb(0,0,0);
+}
+
+/* Header */
+
+header i{
+    color: gray;
+    padding-left: 5px;
+}
