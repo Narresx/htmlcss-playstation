@@ -18,6 +18,10 @@ img{
     background-color: rgb(45,100,230);
 }
 
+.bkg-color-orange{
+    background-color: rgb(205,61,15);
+}
+
 /* Text color */
 
 .text-blue{
@@ -53,7 +57,7 @@ header i{
     padding-left: 10px;
 }
 
-/* jumbotron */
+/* jumbotron-1 */
 
 .jumbotron{
     background-image: url(./img/jumbo-bg.png);
@@ -78,6 +82,17 @@ header i{
 
 .padding-bot-jumbo-img{
     padding: 15px;
+}
+
+/* Jumbo 2 */
+
+.jumbo-2{
+    background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    padding: 30px;
 }
 
 /* better border radius */
