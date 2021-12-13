@@ -50,3 +50,13 @@ header i{
 .jumbotron p{
     font-size: 2em;
 }
+
+.padding-bot-jumbo-img{
+    padding: 15px;
+}
+
+/* better border radius */
+
+.border-radius{
+    border-radius: 20px;
+}
