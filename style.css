@@ -54,6 +54,10 @@ img{
     padding: 50px 0;
 }
 
+.padding-top-bot-small{
+    padding: 25px 0;
+}
+
 /* Header */
 
 header i{
@@ -62,7 +66,7 @@ header i{
 }
 
 .top-header{
-    height: 45px;
+    height: 35px;
 }
 
 /* jumbotron-1 */
