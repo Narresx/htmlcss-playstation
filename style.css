@@ -26,6 +26,11 @@ img{
     background-color: rgb(45,100,230);
 }
 
+
+.bkg-color-blue-light{
+    background-color: rgb(0,67,156);
+}
+
 .bkg-color-blue-dark{
     background-color: rgb(22,28,59);
 }
@@ -49,6 +54,10 @@ img{
 }
 
 /* Spacing */
+
+.margin-top-25{
+    margin-top: 25px;
+}
 
 .margin-top-50{
     margin-top: 50px;
@@ -126,8 +135,28 @@ header i{
     font-size: 15px;
 }
 
+/* Footer */
+
+.link-footer{
+    text-decoration: none;
+    color: white;
+}
+
+.link-footer-underline{
+    text-decoration: underline;
+    color: white;
+}
+
 /* better border radius */
 
 .border-radius{
     border-radius: 20px;
 }
+
+/* Add width */
+
+.w-15{
+    width: 15%;
+}
+
+/* Hover effects */
