@@ -61,6 +61,10 @@ header i{
     padding-left: 10px;
 }
 
+.top-header{
+    height: 45px;
+}
+
 /* jumbotron-1 */
 
 .jumbotron{
