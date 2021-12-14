@@ -160,3 +160,26 @@ header i{
 }
 
 /* Hover effects */
+
+.btn:hover{
+    box-shadow:0 0 0 2px currentColor inset;
+}
+
+.navbar .container-fluid a:hover{
+    color: rgb(0,0,0);   
+}
+
+.img-hover img:hover{
+    animation: moveup 1s linear reverse;
+}
+
+@keyframes moveup {
+    
+    from {
+        transform: translateY(0);
+    }
+
+    to {
+        transform: translateY(-20px);
+    }
+}
