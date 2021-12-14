@@ -170,16 +170,24 @@ header i{
 }
 
 .img-hover img:hover{
-    animation: moveup 1s linear reverse;
+    animation: moveup 1s linear infinite;
 }
 
 @keyframes moveup {
     
-    from {
+    0% {
         transform: translateY(0);
     }
 
-    to {
+    25% {
         transform: translateY(-20px);
+    }
+
+    50% {
+        transform: translateY(-20px)
+    }
+
+    100% {
+        transform: translateY(0)
     }
 }
