@@ -96,7 +96,7 @@ header i{
     background-image: url(./img/jumbo-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: top center;
     width: 100%;
     padding: 30px;
 }
@@ -123,7 +123,7 @@ header i{
     background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: top center;
     width: 100%;
     padding: 30px;
 }
